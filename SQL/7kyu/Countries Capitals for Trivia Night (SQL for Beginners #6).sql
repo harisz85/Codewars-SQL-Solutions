@@ -17,7 +17,7 @@ The first question: from the African countries that start with the character E, 
 
 ------------------------------------------
 
--- Your solution here
+
 
 SELECT CAPITAL FROM countries 
 
