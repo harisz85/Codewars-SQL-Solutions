@@ -19,9 +19,7 @@ The first question: from the African countries that start with the character E, 
 
 
 
-SELECT CAPITAL FROM countries 
-
-
+SELECT CAPITAL FROM countries
 WHERE CONTINENT LIKE 'Afri%' AND  COUNTRY LIKE 'E%'
 ORDER BY CAPITAL ASC LIMIT 3;
 
